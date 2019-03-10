@@ -6,7 +6,7 @@ public class HelloWorld {
 		
 		System.out.println("In this branch, I would like to do a for-loop for 10");
 		for (int i = 0; i < 10; i++) {
-			System.out.println("Item: "+(i+1*i));
+			System.out.println("> Item: " + (i + 1 * i));
 		}
 	}
 }
